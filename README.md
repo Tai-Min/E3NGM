@@ -2,11 +2,11 @@
 MY (absurdly) customized ENDER 3 NG v1.2
 
 # Third party mods
-* https://www.printables.com/model/1091879-e3ng-patternless-electronics-panel
-* https://www.printables.com/model/1068295-ender-3-ng-v12-skr-mini-e3-cooling-fan-mount
-* https://www.printables.com/model/1068295-ender-3-ng-v12-skr-mini-e3-cooling-fan-mount
-* https://www.printables.com/model/1046967-ender-3-ng-v12-stealthburner-toolhead-mount
-* https://www.printables.com/model/1152917-btt-pi-v12-mount
+* [Patternless electronics panel](https://www.printables.com/model/1091879-e3ng-patternless-electronics-panel)
+* [SKR Mini E3 - Cooling Fan Mount](https://www.printables.com/model/1068295-ender-3-ng-v12-skr-mini-e3-cooling-fan-mount)
+* [Stealthburner Toolhead Mount](https://www.printables.com/model/1046967-ender-3-ng-v12-stealthburner-toolhead-mount)
+* [BTT Pi V1.2 Mount](https://www.printables.com/model/1152917-btt-pi-v12-mount)
+* ["Ultimate frame"](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1051985-3d-printing-ultimate-frame)
 * [ERCF v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2)
 * [ERCF Pregate Sensors](https://github.com/juliusjj25/ERCF-Pregate-Sensors/tree/main)
 * [Filametrix Filament Cutter](https://github.com/Enraged-Rabbit-Community/ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/ERF_Filament_Cutter))
