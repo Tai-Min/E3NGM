@@ -22,5 +22,10 @@ TODO: fan multiplexer
 TODO: backplate for ERCF
 TODO: EBB mount
 TODO: brush/bucket
+TODO: ERCF board mount
+TODO: Side panels
 
 # My custom scripts
+TODO: cooling / air filtration fan in one
+TODO: Detachable BME680 sensor
+TODO: Data collector
