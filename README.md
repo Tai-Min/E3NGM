@@ -8,6 +8,7 @@ MY (absurdly) customized ENDER 3 NG v1.2
 * https://www.printables.com/model/1046967-ender-3-ng-v12-stealthburner-toolhead-mount
 * https://www.printables.com/model/1152917-btt-pi-v12-mount
 * [ERCF v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2)
+* [ERCF Pregate Sensors](https://github.com/juliusjj25/ERCF-Pregate-Sensors/tree/main)
 * [Filametrix Filament Cutter](https://github.com/Enraged-Rabbit-Community/ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/ERF_Filament_Cutter))
 * [Filamentalist Rewinder](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder)
 
